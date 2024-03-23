@@ -1,6 +1,6 @@
 # sendanor.fi Product Management
 
-Welcome to the GitHub repository for sendanor.fi's public product management. This repository is the central hub for tracking issues and developments related to our website, sendanor.fi.
+Welcome to the GitHub repository for sendanor.fi's public product management. This repository is the central hub for tracking issues and developments related to our website, https://sendanor.fi.
 
 ## Contribution and Issue Tracking
 
