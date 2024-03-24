@@ -20,7 +20,7 @@ Our product management is streamlined into four levels of issues, ensuring clari
 
 - **Index Issue (`index`):** Serves as the master tracker for all development activities, including project and backlog issues.
 - **Project Issues (`project`):** Represent a development iteration or release, encompassing various tasks and bugs.
-- **Task Issues (`task`):** The primary unit of work, ideally broken down into manageable steps achievable within a single release.
+- **Task Issues (`task` or `bug`):** The primary unit of work, ideally broken down into manageable steps achievable within a single release.
 - **Subtask Issues (`subtask`):** Detailed components of a task or bug, either tracked as separate GitHub issues or as checklist items within a task issue.
 
 ### Work Estimates
