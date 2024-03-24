@@ -29,7 +29,7 @@ We adopt a straightforward approach to estimating development progress through [
 
 ### Source Code
 
-While the complete source code for our hosting company website is not publicly available, we and our company [Heusala Group Oy](https://heusalagroup.fi) are open to crafting similar websites for interested customers under a commercial agreement. Our expertise lies in creating sophisticated, secure websites that integrate seamlessly with an array of systems including [Paytrail](https://paytrail.fi), [Maventa](https://maventa.fi), [Netvisor](https://netvisor.fi), [OP Business Bank](https://op.fi), [Joker.com](https://joker.com), and more, to ensure an exceptional user experience.
+While the complete source code for our hosting company website is not publicly available, we and our company [Heusala Group Oy](https://heusalagroup.fi) are open to crafting similar websites for interested customers under a commercial agreement. Our expertise lies in creating sophisticated, secure websites that integrate seamlessly with an array of systems including [Paytrail](https://paytrail.fi), [Maventa](https://maventa.fi), [Netvisor](https://netvisor.fi), [OP Business Bank](https://op.fi), [Joker.com](https://joker.com), [Zendesk](https://zendesk.fi), [Twilio](https://www.twilio.com), [Github](https://github.com), and more, to ensure an exceptional user experience.
 
 Our development stack is rooted in modern technologies such as ReactJS, NodeJS, and Golang, which enables us to deliver highly responsive and scalable websites. Moreover, we have the capability to integrate with other custom systems as per your business requirements, ensuring a tailored solution that aligns with your goals.
 
