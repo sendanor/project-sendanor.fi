@@ -26,3 +26,11 @@ Our product management is streamlined into four levels of issues, ensuring clari
 ### Work Estimates
 
 We adopt a straightforward approach to estimating development progress through [ticket counting](https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation_1.pdf). Experience shows that detailed time estimates are often unnecessary. By splitting tasks into the smallest feasible units, we find that the average completion time becomes a constant. Assuming an average of one (1) story point per item, we standardize all tasks to this value, simplifying our estimation process to merely counting tasks/subtasks. This method has proven effective and efficient, allowing us to focus more on actual development work.
+
+### Source Code
+
+While the complete source code for our hosting company website is not publicly available, we and our company [Heusala Group Oy](https://heusalagroup.fi) are open to crafting similar websites for interested customers under a commercial agreement. Our expertise lies in creating sophisticated, secure websites that integrate seamlessly with an array of systems including Paytrail, Maventa, OP Business Bank, Joker.com, and more, to ensure an exceptional user experience.
+
+Our development stack is rooted in modern technologies such as ReactJS, NodeJS, and Golang, which enables us to deliver highly responsive and scalable websites. Moreover, we have the capability to integrate with other custom systems as per your business requirements, ensuring a tailored solution that aligns with your goals.
+
+For those interested in leveraging our expertise for their own projects, we invite you to [contact our customer service team](https://www.sendanor.fi/customerservice) for a detailed discussion and to request a quote. Our team is dedicated to providing you with a solution that not only meets your needs but also surpasses your expectations in terms of quality and security.
