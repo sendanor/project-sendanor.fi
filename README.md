@@ -33,4 +33,4 @@ While the complete source code for our hosting company website is not publicly a
 
 Our development stack is rooted in modern technologies such as ReactJS, NodeJS, and Golang, which enables us to deliver highly responsive and scalable websites. Moreover, we have the capability to integrate with other custom systems as per your business requirements, ensuring a tailored solution that aligns with your goals.
 
-For those interested in leveraging our expertise for their own projects, we invite you to [contact our customer service team](https://www.sendanor.fi/customerservice) for a detailed discussion and to request a quote. Our team is dedicated to providing you with a solution that not only meets your needs but also surpasses your expectations in terms of quality and security.
+For those interested in leveraging our expertise for their own projects, we invite you to [contact our sales team](https://www.heusalagroup.fi/) for a detailed discussion and to request a quote. Our team is dedicated to providing you with a solution that not only meets your needs but also surpasses your expectations in terms of quality and security.
